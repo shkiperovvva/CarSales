@@ -1,0 +1,23 @@
+﻿<Window x:Class="Car_sales.MainWindowAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car_sales"
+        mc:Ignorable="d"
+        Title="Главное окна администаратора системы" Height="450" Width="800">
+    <Grid>
+        <Button Content="Поcмотреть список пользователей" HorizontalAlignment="Left" Margin="27,283,0,0" VerticalAlignment="Top" Height="40" Width="200" Click="ViewEmployeeButton_Click"/>
+
+        <DataGrid Name="CarsDataGrid" Margin="400,0,0,0" AutoGenerateColumns="True" />
+        <Label Content="Марка автомобиля" HorizontalAlignment="Left" Margin="27,91,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дата начала" HorizontalAlignment="Left" Margin="27,133,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дата окончания" HorizontalAlignment="Left" Margin="27,172,0,0" VerticalAlignment="Top"/>
+
+        <DatePicker Name="EndDatePicker" HorizontalAlignment="Left" Margin="168,173,0,0" VerticalAlignment="Top" Height="25" Width="200"/>
+        <DatePicker x:Name="StartDatePicker" HorizontalAlignment="Left" Margin="168,134,0,0" VerticalAlignment="Top" Height="25" Width="200"/>
+        <ComboBox Name="BrandComboBox" HorizontalAlignment="Left" Margin="168,91,0,0" VerticalAlignment="Top" Width="200" Height="25"/>
+        <Button Content="Поиск" HorizontalAlignment="Left" Margin="27,232,0,0" VerticalAlignment="Top" Height="40" Width="200" Click="SearchButton_Click"/>
+        <Label Content="Окно администратора системы" HorizontalAlignment="Left" Margin="66,30,0,0" VerticalAlignment="Top" Width="Auto" FontSize="16" FontWeight="Heavy"/>
+    </Grid>
+</Window>

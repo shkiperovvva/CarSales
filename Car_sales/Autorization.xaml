@@ -1,0 +1,17 @@
+﻿<Window x:Class="Car_sales.Autorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car_sales"
+        mc:Ignorable="d"
+        Title="Авторизация" Height="450" Width="800">
+    <Grid>
+        <Label Content="АВТОРИЗАЦИЯ" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" FontWeight="Heavy" Margin="0,84,0,0"/>
+        <TextBox Name="EmailTextBox" HorizontalAlignment="Left" Margin="343,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Button Content="Войти" FontSize="14" FontWeight="Heavy" HorizontalAlignment="Center" Margin="0,301,0,0" VerticalAlignment="Top" Width="174" Height="35" Click="LoginButton_Click"/>
+        <PasswordBox Name="PasswordTextBox" HorizontalAlignment="Left" Margin="343,217,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Эл.почта" HorizontalAlignment="Left" Margin="246,169,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Light"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="246,218,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Light"/>
+    </Grid>
+</Window>

@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shkip\\source\\repos\\Car_sales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\autorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\autorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\mainwindowemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\mainwindowemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\mainwindowadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\mainwindowadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\vieworderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\vieworderswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\viewemployeelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\viewemployeelist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\viewemployeelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\viewemployeelist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|c:\\users\\shkip\\source\\repos\\car_sales\\car_sales\\vieworderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AECAA9E0-7FE2-4A16-BE3C-598A98B9DA81}|Car_sales\\Car_sales.csproj|solutionrelative:car_sales\\vieworderswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\Autorization.xaml.cs",
+              "RelativeDocumentMoniker": "Car_sales\\Autorization.xaml.cs",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\Autorization.xaml.cs",
+              "RelativeToolTip": "Car_sales\\Autorization.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:54:27.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Car_sales\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Car_sales\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:51:50.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Car_sales\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\MainWindow.xaml",
+              "RelativeToolTip": "Car_sales\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T16:43:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewOrdersWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\ViewOrdersWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Car_sales\\ViewOrdersWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\ViewOrdersWindow.xaml.cs",
+              "RelativeToolTip": "Car_sales\\ViewOrdersWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:48:59.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewOrdersWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\ViewOrdersWindow.xaml",
+              "RelativeDocumentMoniker": "Car_sales\\ViewOrdersWindow.xaml",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\ViewOrdersWindow.xaml",
+              "RelativeToolTip": "Car_sales\\ViewOrdersWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T15:47:21.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewEmployeeList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\ViewEmployeeList.xaml.cs",
+              "RelativeDocumentMoniker": "Car_sales\\ViewEmployeeList.xaml.cs",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\ViewEmployeeList.xaml.cs",
+              "RelativeToolTip": "Car_sales\\ViewEmployeeList.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:39:55.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindowAdmin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\MainWindowAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "Car_sales\\MainWindowAdmin.xaml.cs",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\MainWindowAdmin.xaml.cs",
+              "RelativeToolTip": "Car_sales\\MainWindowAdmin.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:38:08.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindowEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\MainWindowEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "Car_sales\\MainWindowEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\MainWindowEmployee.xaml.cs",
+              "RelativeToolTip": "Car_sales\\MainWindowEmployee.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:36:09.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewEmployeeList.xaml",
+              "DocumentMoniker": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\ViewEmployeeList.xaml",
+              "RelativeDocumentMoniker": "Car_sales\\ViewEmployeeList.xaml",
+              "ToolTip": "C:\\Users\\shkip\\source\\repos\\Car_sales\\Car_sales\\ViewEmployeeList.xaml",
+              "RelativeToolTip": "Car_sales\\ViewEmployeeList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T15:47:36.13Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿<Window x:Class="Car_sales.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car_sales"
+        mc:Ignorable="d"
+        Title="Регистрация" Height="450" Width="800">
+    <Grid>
+        <Label Content="Регистрация" HorizontalAlignment="Center" FontSize="24" FontWeight="Heavy" VerticalAlignment="Top" Margin="0,75,0,0"/>
+
+        <Button Content="Зарегистрироваться" FontSize="14" FontWeight="Heavy" HorizontalAlignment="Left" Margin="318,334,0,0" VerticalAlignment="Top" Width="174" Height="35"/>
+        <TextBox x:Name="NameTextBox" HorizontalAlignment="Left" Margin="210,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Имя" HorizontalAlignment="Left" Margin="113,156,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Light"/>
+
+        <TextBox x:Name="LastnameTextBox" HorizontalAlignment="Left" Margin="210,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="200" Height="30"/>
+        <Label Content="Фамилия" HorizontalAlignment="Left" Margin="113,0,0,0" VerticalAlignment="Center" FontSize="14" FontWeight="Light"/>
+
+        <TextBox x:Name="EmailTextBox" HorizontalAlignment="Left" Margin="210,252,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Эл.почта" HorizontalAlignment="Left" Margin="113,252,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Light"/>
+
+        <PasswordBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Margin="534,179,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="437,180,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Light"/>
+
+        <PasswordBox x:Name="RepaetPasswordTextBox" HorizontalAlignment="Left" Margin="534,225,0,0" VerticalAlignment="Top" Width="200" Height="30"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="437,226,0,0" VerticalAlignment="Top" FontSize="14" FontWeight="Light"/>
+
+    </Grid>
+</Window>

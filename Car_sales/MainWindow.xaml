@@ -1,0 +1,20 @@
+﻿<Window x:Class="Car_sales.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Главное окно клиента" Height="348" Width="516">
+    <Grid Margin="10">
+        <StackPanel Width="370" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,62,0,0" >
+            <TextBlock Text="Выберите автомобиль:" Margin="0,0,0,5"/>
+            <ComboBox Name="CarComboBox" DisplayMemberPath="brand" SelectedValuePath="id_car" Height="25" Margin="0,0,0,10"/>
+            <TextBlock Text="Выберите вашу электронную почту:" Margin="0,0,0,5"/>
+            <ComboBox Name="EmailComboBox" DisplayMemberPath="email" SelectedValuePath="id_user" Height="25" Margin="0,0,0,10"
+                      SelectionChanged="EmailComboBox_SelectionChanged"/>
+
+            <TextBlock Text="Количество:" Margin="0,0,0,5"/>
+            <TextBox Name="QuantityTextBox" Height="25" Margin="0,0,0,10"/>
+
+            <Button Content="Оформить заказ" Height="30" Click="PlaceOrderButton_Click"/>
+        </StackPanel>
+        <Label Content="Оформление заказа" FontSize="16" FontWeight="Heavy" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

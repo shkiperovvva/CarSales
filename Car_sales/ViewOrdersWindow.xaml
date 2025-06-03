@@ -1,0 +1,14 @@
+﻿<Window x:Class="Car_sales.ViewOrdersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car_sales"
+        mc:Ignorable="d"
+        Title="ViewOrdersWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid Margin="0,0,307,0" AutoGenerateColumns="True" x:Name="OrderDataGrid"/>
+        <Button Content="Удалить заказ" HorizontalAlignment="Left" Margin="553,21,0,0" VerticalAlignment="Top" Height="40" Width="198" Click="DeleteButton_Click"/>
+
+    </Grid>
+</Window>

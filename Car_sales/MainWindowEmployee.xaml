@@ -1,0 +1,18 @@
+﻿<Window x:Class="Car_sales.MainWindowEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Car_sales"
+        mc:Ignorable="d"
+        Title="Главное окно сотрудников" Height="450" Width="800">
+    <Grid>
+        <Button Content="Список заказов" HorizontalAlignment="Left" Margin="36,211,0,0" VerticalAlignment="Top" Height="40" Width="200" Click="ViewOrdersButton_Click"/>
+        <DataGrid x:Name="DataGrid" Margin="274,0,0,0" AutoGenerateColumns="True" />
+        <Label Content="Окно сотрудника системы" HorizontalAlignment="Left" Margin="23,23,0,0" VerticalAlignment="Top" Width="Auto" FontSize="16" FontWeight="Heavy"/>
+        <Button Content="Список автомобилей" HorizontalAlignment="Left" Margin="36,75,0,0" VerticalAlignment="Top" Height="40" Width="200" Click="ViewCarButton_Click"/>
+        <Button Content="Список марок автомобилей" HorizontalAlignment="Left" Margin="36,120,0,0" VerticalAlignment="Top" Height="40" Width="200" Click="ViewBrandButton_Click"/>
+        <Button Content="Список пользователей" HorizontalAlignment="Left" Margin="36,165,0,0" VerticalAlignment="Top" Height="40" Width="200" Click="ViewUsersButton_Click"/>
+
+    </Grid>
+</Window>
