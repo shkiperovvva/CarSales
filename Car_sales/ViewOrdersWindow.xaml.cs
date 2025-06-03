@@ -16,9 +16,6 @@ using Npgsql;
 
 namespace Car_sales
 {
-    /// <summary>
-    /// Логика взаимодействия для ViewOrdersWindow.xaml
-    /// </summary>
     public partial class ViewOrdersWindow : Window
     {
         private readonly string ConnectionString = "Host=172.20.7.53;Port=5432;Database=db2992_23;Username=st2992;Password=pwd2992";
