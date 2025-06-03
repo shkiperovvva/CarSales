@@ -5,9 +5,6 @@ using Npgsql;
 
 namespace Car_sales
 {
-    /// <summary>
-    /// Логика взаимодействия для ViewEmployeeList.xaml
-    /// </summary>
     public partial class ViewEmployeeList : Window
     {
         private readonly string ConnectionString = "Host=172.20.7.53;Port=5432;Database=db2992_23;Username=st2992;Password=pwd2992";
