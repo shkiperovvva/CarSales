@@ -14,9 +14,6 @@ using System.Windows.Shapes;
 
 namespace Car_sales
 {
-    /// <summary>
-    /// Логика взаимодействия для UpdateEmailWindow.xaml
-    /// </summary>
     public partial class UpdateEmailWindow : Window
     {
         public string NewEmail { get; set; }
